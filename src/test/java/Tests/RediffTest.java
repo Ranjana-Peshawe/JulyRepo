@@ -11,7 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 
-public class RediffTest 
+public class RediffTest
 {
   WebDriver driver;
   
